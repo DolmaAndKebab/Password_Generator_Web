@@ -31,6 +31,7 @@ input {
 	width: 25rem !important;
 	height: 2.5rem !important;
 	margin-bottom: 1rem !important;
+	text-align: center;
 }
 
 .Column_Align {
@@ -66,4 +67,10 @@ input {
 #Options input {
 	width: 2rem !important;
 	height: 2rem !important;
+	text-align: center;
+}
+
+#ROOT button {
+	margin-top: 1rem !important;
+	cursor: pointer;
 }
